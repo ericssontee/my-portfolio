@@ -71,6 +71,32 @@ h3 {
 	color: #FFFFFF;
 }
 
+.contacts {
+	display: flex;
+	flex-direction: row;
+	
+}
+
+.email {
+	color: black;
+	margin-right:30px;
+	
+
+}
+
+.fa {
+	
+	color: black;
+	font-size: 35px;
+	text-align: center;
+}
+
+footer {
+	text-align: center;
+	color: #f2f2f2;
+	padding: 1%;
+}
+
 .tools {
 	/*border --> line around the element*/
 	border: 5px solid #f2f2f2;
